@@ -18,7 +18,7 @@ Peso= input('Inserire peso [Kg]=');
 Altezza= input('Inserire altezza [m]=');
 
 
-[totaldist, kcalmedh, AccX, AccY,AccZ, passieffettuati,Liquid_loss]=fittracker(Temperatura,Peso,Altezza,m);
+[totaldist, kcalmedh, AccX, AccY,AccZ, passieffettuati,Liquid_loss,VO2med]=fittracker(Temperatura,Peso,Altezza,m);
 
 
 

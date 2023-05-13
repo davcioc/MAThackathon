@@ -1,4 +1,4 @@
-function [totaldist, kcalmedh, AccX, AccY,AccZ, passieffettuati,Liquid_loss,vmed]= fittracker (Temperatura,Peso,Altezza,m)
+function [totaldist, kcalmedh, AccX, AccY,AccZ, passieffettuati,Liquid_loss,vmed,VO2med]= fittracker (Temperatura,Peso,Altezza,m)
 
  
 
